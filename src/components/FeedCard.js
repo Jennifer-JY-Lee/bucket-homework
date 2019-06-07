@@ -1,5 +1,7 @@
 import React from "react";
 
+import scrapOnImg from "assets/images/scrap-on.svg";
+import scrapOffImg from "assets/images/scrap-off.svg";
 function FeedCard(props) {
   const {
     authorProfile,
@@ -18,6 +20,10 @@ function FeedCard(props) {
       <div className="card-img" style={{ backgroundImage: `url(${image})` }}>
         <div
           className={`scrap-btn ${scrapped === true ? "scrapped" : ""}`}
+          style={{
+            backgroundImage:
+              scrapped === true ? `url(${scrapOnImg})` : `url(${scrapOffImg})`
+          }}
           onClick={() => {
             onScrapClick(id, scrapped, image, authorNickname, authorProfile);
           }}
