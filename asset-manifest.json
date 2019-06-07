@@ -1,12 +1,14 @@
 {
   "files": {
-    "main.css": "/bucket-homework/static/css/main.979c99d3.chunk.css",
-    "main.js": "/bucket-homework/static/js/main.7471a764.chunk.js",
+    "main.css": "/bucket-homework/static/css/main.d41494f7.chunk.css",
+    "main.js": "/bucket-homework/static/js/main.2b2eb1f4.chunk.js",
     "runtime~main.js": "/bucket-homework/static/js/runtime~main.f5c61e0b.js",
     "static/css/2.379a38a5.chunk.css": "/bucket-homework/static/css/2.379a38a5.chunk.css",
-    "static/js/2.750fd642.chunk.js": "/bucket-homework/static/js/2.750fd642.chunk.js",
+    "static/js/2.3b668d95.chunk.js": "/bucket-homework/static/js/2.3b668d95.chunk.js",
     "index.html": "/bucket-homework/index.html",
-    "precache-manifest.0548901227eef78ac769c7c0bf4063df.js": "/bucket-homework/precache-manifest.0548901227eef78ac769c7c0bf4063df.js",
-    "service-worker.js": "/bucket-homework/service-worker.js"
+    "precache-manifest.3f6c6114e75dff04f020e7c590a2f6c4.js": "/bucket-homework/precache-manifest.3f6c6114e75dff04f020e7c590a2f6c4.js",
+    "service-worker.js": "/bucket-homework/service-worker.js",
+    "static/media/scrap-off.svg": "/bucket-homework/static/media/scrap-off.0c7e34a2.svg",
+    "static/media/scrap-on.svg": "/bucket-homework/static/media/scrap-on.be2a9f76.svg"
   }
 }
