@@ -1,0 +1,44 @@
+.feed-card {
+  margin-bottom: 30px;
+  .author-profile {
+    width: 36px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 10px;
+    img {
+      width: 100%;
+    }
+  }
+  .author-nickname {
+    font-weight: bold;
+    line-height: 1.27;
+    color: rgba(0, 0, 0, 0.74);
+    display: inline-block;
+
+  }
+  .card-img {
+    margin-top: 10px;
+    padding-bottom: 100%;
+    border-radius: 10px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+    background-color: #f2f2f2;
+  }
+  .scrap-btn {
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    width: 32px;
+    height: 32px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url('/images/scrap-off.svg');
+    cursor: pointer;
+    &.scrapped {
+      background-image: url('/images/scrap-on.svg');
+    }
+  }
+}
