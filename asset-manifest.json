@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/bucket-homework/static/css/main.979c99d3.chunk.css",
+    "main.js": "/bucket-homework/static/js/main.7471a764.chunk.js",
+    "runtime~main.js": "/bucket-homework/static/js/runtime~main.f5c61e0b.js",
+    "static/css/2.379a38a5.chunk.css": "/bucket-homework/static/css/2.379a38a5.chunk.css",
+    "static/js/2.750fd642.chunk.js": "/bucket-homework/static/js/2.750fd642.chunk.js",
+    "index.html": "/bucket-homework/index.html",
+    "precache-manifest.0548901227eef78ac769c7c0bf4063df.js": "/bucket-homework/precache-manifest.0548901227eef78ac769c7c0bf4063df.js",
+    "service-worker.js": "/bucket-homework/service-worker.js"
+  }
+}
